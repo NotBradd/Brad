@@ -7,3 +7,5 @@ have fun ig
 ## Request a Game: 
 
 https://docs.google.com/forms/d/e/1FAIpQLSfqX-_Fl9gVKr3_lFDk-9iaznQZwKq52KLQZlpW7yluLmPafw/viewform?usp=sf_link
+
+Click [here](https://github.com/NotBradd/Brad/edit/gh-pages/index.md) to go back
